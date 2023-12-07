@@ -1,4 +1,6 @@
-# Physics.Capacitor
-Modeling  №2
+# Physics.Capacitor Modeling  №2
+# Clawf
+
+![alt text](images/Force_Equipotential_Lines.png)
 
 [Формулы для расчета Силовых и Эквипотенциальных линий при краевом эффекте](Краевой%20эффект.pdf)
