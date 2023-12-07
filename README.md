@@ -1,5 +1,5 @@
 # Physics.Capacitor Modeling  №2
-# Clawf
+# /#Clawf
 
 ![alt text](images/Force_Equipotential_Lines.png)
 
