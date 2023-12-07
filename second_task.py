@@ -151,6 +151,7 @@ if __name__ == "__main__":
     alpha_values = np.linspace(0, np.pi, 300)  # Генерация углов для f(a)
 
     # Вычисление значений функции для каждого угла
+    # * 1e9 т.к. считаем в нФ
     function_values = [1e9 * ComputeCapacity(length, width, d, h, alpha) for alpha in alpha_values]
 
     # Отрисовка f(a)
